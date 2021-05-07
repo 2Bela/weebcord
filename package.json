@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "translate": "^1.1.2",
     "wanakana": "^4.0.2"
   },
   "devDependencies": {}
