@@ -8,11 +8,6 @@ const client = new Client({ ws: { intents } });
 const translate = require('translate');
 const wanakana = require('wanakana');
 
-
-translate.engine = 'google';
-translate.key = config.googleAPIKey;
-
-
 client.on('ready', () => {
     console.log('Ready');
 
