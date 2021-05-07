@@ -5,7 +5,6 @@ const intents = new Intents([
 ]);
 const config = require('./config.json')
 const client = new Client({ ws: { intents } });
-const translate = require('translate');
 const wanakana = require('wanakana');
 
 client.on('ready', () => {
