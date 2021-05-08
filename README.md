@@ -1,12 +1,12 @@
 # weebcord
 a discord bot that automatically translates usernames and applies nicknames
 
-#Dependencies
+# Dependencies
 
-npm
-WanaKana
-Discord.js
-nodemon
+- npm
+- WanaKana
+- Discord.js
+- nodemon
 
 
 instructions
