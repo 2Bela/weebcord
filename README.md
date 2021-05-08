@@ -9,6 +9,6 @@ a discord bot that automatically translates usernames and applies nicknames
 - nodemon
 
 
-instructions
+# instructions
 1.  put in your token to the config
 2.  run nodemon in cmd 
